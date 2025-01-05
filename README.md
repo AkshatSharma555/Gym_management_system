@@ -67,6 +67,14 @@ Prerequisites
 Install Java JDK (Version 8 or above).
 Install MySQL Server (Version 5.7 or above).
 Use a Java IDE like IntelliJ IDEA, Eclipse, or NetBeans.
+
+Set Up MySQL: Install MySQL Server (Version 5.7 or above) and create the required database using the provided SQL script.
+Install SQL Connector:
+Download the MySQL Connector JAR file from MySQL official site.
+Add the JAR file to your code editor/IDE. In Eclipse, you can do this by:
+Right-click the project > Build Path > Configure Build Path > Libraries > Add External JARs.
+Select the downloaded JAR file and click Apply and Close.
+
 Steps to Run
 1. Clone the Repository
 
@@ -85,8 +93,8 @@ String password = "your_password";
 Open the project in your Java IDE.
 Compile all Java files to ensure there are no errors.
 
-5. Run the Main Class
-Locate the main class (MainApp.java or equivalent) in the project.
+5. Run the Main frame( Launch the Main Frame)
+Locate the main class in UI section (Main frame.java or equivalent) in the project.
 Run the main class to launch the application.
 
 📹 Demo Video

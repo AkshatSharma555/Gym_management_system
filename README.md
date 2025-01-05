@@ -2,7 +2,6 @@
 Gym Management System 💪
 The Gym Management System is a desktop application designed to simplify gym operations, including managing members, tracking payments, scheduling classes, and logging attendance. Built using Java, MySQL, and JDBC, this system provides an intuitive and efficient way to handle day-to-day gym tasks, making it ideal for fitness centers of all sizes.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 🏋️ Key Features
 👥 Member Management
 
@@ -52,6 +51,9 @@ Manage various membership plans (e.g., monthly, yearly).
 Define durations, pricing, and detailed plan descriptions.
 📂 Project Structure
 The project is organized into the following packages:
+1)DAO package
+2)UI package
+3)Model package
 
 DAO (Data Access Objects): Handles database interactions for members, classes, payments, and more.
 UI (User Interface): Provides a graphical interface built using Java Swing for user interaction.

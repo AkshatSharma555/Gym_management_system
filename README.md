@@ -55,8 +55,7 @@ The project is organized into the following packages:
 
 DAO (Data Access Objects): Handles database interactions for members, classes, payments, and more.
 UI (User Interface): Provides a graphical interface built using Java Swing for user interaction.
-📋 Database Schema
-Here’s a summary of the database tables used in the system:
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 How to Run the Project on Your System
 

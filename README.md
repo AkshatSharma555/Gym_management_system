@@ -98,9 +98,6 @@ Compile all Java files to ensure there are no errors.
 Locate the main class in UI section (Main frame.java or equivalent) in the project.
 Run the main class to launch the application.
 
-📹 Demo Video
-Check out the demo video to see the Gym Management System in action! 
-https://drive.google.com/drive/folders/12-Ha8-ct0yQOa6actOg9qCVfpUH-iGRE?usp=sharing
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🤝 Contribution
@@ -121,8 +118,3 @@ Open a pull request.
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-💡 Future Enhancements
-Integrate payment gateways for online payments.
-Add notifications for membership renewals via email or SMS.
-Develop a mobile app for members to access their profiles and schedules.
-Create analytics dashboards for gym performance insights.

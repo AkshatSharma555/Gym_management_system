@@ -1,0 +1,8 @@
+export { default as Home } from './Home'
+export { default as Members } from './Members'
+export { default as Instructors } from './Instructors'
+export { default as Classes } from './Classes'
+export { default as Attendance } from './Attendance'
+export { default as Payments } from './Payments'
+export { default as Feedback } from './Feedback'
+export { default as Promotions } from './Promotions'
